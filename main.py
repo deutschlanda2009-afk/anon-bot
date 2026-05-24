@@ -7,7 +7,7 @@ import logging
 # НАСТРОЙКИ
 # =========================
 
-TOKEN = 8738376027:AAHLsCBy0GWHO8XOIj1R7CDi21uFhJegs8Y
+TOKEN = "8738376027:AAHLsCBy0GWHO8XOIj1R7CDi21uFhJegs8Y"
 OWNER_ID = 7116697287
 
 # =========================
